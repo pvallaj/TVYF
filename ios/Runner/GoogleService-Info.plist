@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>551559508180-4cq5u9dlrk81l9eke27msg8isskv9fo7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.551559508180-4cq5u9dlrk81l9eke27msg8isskv9fo7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>551559508180-7748aeuj7bagq9mo7lulufmp35qnd2lo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAYa9bRxkrz06Xh517xKBVwBHlXC8zgwlY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>551559508180</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hv.tvyamel</string>
+	<key>PROJECT_ID</key>
+	<string>yamel-7d475</string>
+	<key>STORAGE_BUCKET</key>
+	<string>yamel-7d475.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:551559508180:ios:979c073bd43c4df0e8cb41</string>
+	<key>DATABASE_URL</key>
+	<string>https://yamel-7d475.firebaseio.com</string>
+</dict>
+</plist>
